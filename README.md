@@ -80,7 +80,55 @@
   
   - 개발 기간 : 2023.06 ~ 2023.07
   - 사용 언어 및 기술 : Python, tkinter
-<br/>
+  <br/>
+  
+  ### 🔫  Air Defense Control Command, Maintenance Case Management System : 방공관제사령부, 정비사례 관리체계
+
+  > '방공관제사령부(現, 미사일방어사령부) 정비사례 관리체계’를 개발하여 방공관제사령부 예하 전대, 관제부대에 대한 <br/>
+  > “레이다 고장정비 종합관리”의 행정업무를 간소화하는데 기여함 
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2022.6 ~ 2022.11
+  - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, jquery, tui-chart
+  <br/>
+
+  ### 🔫  Aviation Technology Research Institute, Maintenance Case Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)
+
+  > 1>KT-100 Dis-Bonding 이력관리 체계를 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함 <br/>
+  > 2>F-16 계열 항공기 Damage Map을 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2022.1 ~ 2022.7
+  - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, WebGL, PdfJs, tui-chart
+  <br/>
+
+  ### 🔫  Logistics Command, Human rights level self-assessment system : 군수사령부, 인권수준자체진단체계 개발 
+
+  > 인권수준 자체진단체계를 개발하여 코로나상황에 실무자들이 인권수준을 빠르게 조사하고 체계적으로 집계하는데 기여함 
+
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2021.6 ~ 2022.11
+  - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, tui-chart
+  <br/>
+
+   ### 🔫  K-TCG : K-TCG 인터넷 홈페이지 유지보수 및 테스트
+
+  > K-TCG 인터넷 홈페이지를 유지보수에 기여하여 타국 항공기에 대한 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함 
+
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 유지보수 및 테스트 기간 : 2021.5 ~ 2021.6
+  - 사용 언어 및 기술 : Jquery
+  <br/>
 </details>
 <br/>
 
