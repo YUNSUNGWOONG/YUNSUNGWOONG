@@ -38,6 +38,17 @@
 <details >
 <summary> 👀  저는 이런 개발 경험이 있어요! </summary>
 
+  ### 🔫  TurtleBot : 터틀봇을 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/turtlebot_projects)
+
+  > ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 실제 차량 학습을 수행
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2024.02 ~
+  - 사용 언어 및 기술 : python, ROS, C++
+  <br/>
+
   ### 🔫  DonkeyCar : 동키카를 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/donkeycar_projects)
 
   > 텐서플로우와 케라스를 활용하여 시뮬레이션 학습과 실제 차량 학습을 수행
@@ -47,6 +58,17 @@
   
   - 개발 기간 : 2023.08 ~
   - 사용 언어 및 기술 : python, turbo framework, RaspberryPi4, Linux, putty, jenkins, Jira
+  <br/>
+
+  ### 🔫  S32K144 : 엘리베이터 제작 및 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/S32K144EVB_TermProject)
+
+  > uVision IDE를 활용하여 기능 테스트 및 동작 설계 및 제작
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2023.11 ~
+  - 사용 언어 및 기술 : C
   <br/>
 
   ### 🥀  Knu_StudyCafe : 파이썬을 활용한 스터디카페 키오스크  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](...)
