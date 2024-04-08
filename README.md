@@ -85,10 +85,10 @@
 <br/>
 
 ## 👨🏻‍💻 Experience
-  - ``2021.03~2022.12`` Software Engineer - ROKAF Information Systems Management Group (Full-time)<br/>
-  - ``2023.01~2023.03`` TalkTalkLanguage(Academy) - DIGITAL MARKETING EXECUTIVE<br/>
+  - ``2021.03~2022.12`` Software Engineer - ROKAF Logistics Command Convergence Systems Department (Full-time)<br/>
+  - ``2023.01~2023.04`` DIGITAL MARKETING EXECUTIVE - TalkTalkLanguage(Academy)<br/>
   - ``2023.03~`` Kyungpook National University, Department of Electronic Engineering(bachelor's degree course)<br/>
-  - ``2023.07~`` Student researcher at Autonomous Cluster SW Research Center<br/>
+  - ``2023.07~`` Student researcher - Autonomous Cluster SW Research Center<br/>
 
 ## 🛠 Skills
 ### Frontend
