@@ -94,7 +94,7 @@
   - 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, jquery, tui-chart
   <br/>
 
-  ### 🔫  Aviation Technology Research Institute, Maintenance Case Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)
+  ### 🔫  Aviation Technology Research Institute, Aircraft Record Management System : 항공기술연구소, 항공기이력관리체계 (KT-100 Dis-Bonding 이력관리체계 + F-16계열 항공기 Damage Map)
 
   > 1>KT-100 Dis-Bonding 이력관리 체계를 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함 <br/>
   > 2>F-16 계열 항공기 Damage Map을 개발하여 선제적인 정비강화와 다빈도 기골결함에 대해 신속히 조치할 수 있도록 기여함
