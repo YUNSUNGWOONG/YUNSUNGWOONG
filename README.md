@@ -40,7 +40,7 @@
 
   ### 🔫  TurtleBot : 터틀봇을 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/turtlebot_projects)
 
-  > ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 실제 차량 학습을 수행
+  > ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
   -->
@@ -51,7 +51,7 @@
 
   ### 🔫  DonkeyCar : 동키카를 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/donkeycar_projects)
 
-  > 텐서플로우와 케라스를 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
+  > 텐서플로우와 케라스 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
   -->
