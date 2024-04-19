@@ -13,7 +13,7 @@
 1. 문제해결을 즐기는
 2. 재사용성이 높고 직관적인 코드 작성에 신경쓰는
 3. 요구사항과 제약조건을 효율적으로 풀어내는데 관심이 많은
-4. 클린 코드를 끊임없이 고민하는
+4. 배운거는 무조건 써먹어봐야 직성이 풀리는는
 5. 맛있는 커피 한잔과 함께할 동료만 있다면 무엇이든 도전하는
 
 <br/>
@@ -71,9 +71,20 @@
   - 사용 언어 및 기술 : C
   <br/>
 
+  ### 🔫  Autonomous monitoring system suitable for the autonomous driving era, PCSAPS : 보행자보호시스탬   [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/S32K144EVB_TermProject)
+
+  > <창의공학설계>수업에서 텀프로젝트로 제작한, 라즈베리파이와 아두이노를 활용한 PCSAPS(보행자보호시스템) 제작 및 구현
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2023.11 ~
+  - 사용 언어 및 기술 : C
+  <br/>
+
   ### 🥀  Knu_StudyCafe : 파이썬을 활용한 스터디카페 키오스크  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](...)
 
-  > 학부과정<파이썬 프로글래밍>수업에서 텀프로젝트로 제작한 스터디카페 키오스크> 
+  > 학부과정<파이썬 프로글래밍>수업에서 텀프로젝트로 제작한 스터디카페 키오스크
 <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=happy-ending&cache_seconds=86400&theme=gruvbox">
   -->
