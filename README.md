@@ -78,8 +78,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
   -->
   
-  - 개발 기간 : 2023.11 ~
-  - 사용 언어 및 기술 : C
+  - 개발 기간 : 2023.11 ~ 2023.12
+  - 사용 언어 및 기술 : C, Python, OpenCV
   <br/>
 
   ### 🥀  Knu_StudyCafe : 파이썬을 활용한 스터디카페 키오스크  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](...)
