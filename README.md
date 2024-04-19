@@ -71,7 +71,7 @@
   - 사용 언어 및 기술 : C
   <br/>
 
-  ### 🔫  Autonomous monitoring system suitable for the autonomous driving era, PCSAPS : 보행자보호시스탬   [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/S32K144EVB_TermProject)
+  ### 🔫  Autonomous monitoring system suitable for the autonomous driving era, PCSAPS : 보행자보호시스탬   [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/CreativeEngineeringDesign_TermProject)
 
   > <창의공학설계>수업에서 텀프로젝트로 제작한, 라즈베리파이와 아두이노를 활용한 PCSAPS(보행자보호시스템) 제작 및 구현
   <!--
