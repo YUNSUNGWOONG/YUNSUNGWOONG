@@ -182,8 +182,15 @@
 2. 네트워크관리사2급
 3. 행정관리사2,3급
 
+## 🖐 Blog
+<a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github_Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> <br>
+<a href="https://blog.naver.com/yhon89" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89)-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> <br> 
+<a href="https://blog.naver.com/yhon89e" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89e)-E95420?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> <br> 
+<a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=Nuxt.js&logoColor=white"/></a> <br>
+<a href="https://jack-channel-python.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-f1eb6e?style=for-the-badge&logo=PYTHON&logoColor=black"/></a> <br>
+<br>
 ## 📞 Contact
-<a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href="mailto:dailyco03@gmail.com"><img src="https://img.shields.io/badge/2170004487b@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
+<a href="mailto:dailyco03@gmail.com"><img src="https://img.shields.io/badge/2170004487b@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
 
 [HTML5]: https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white
 [css]: https://img.shields.io/badge/css-686de0?style=for-the-badge&logo=css3&logoColor=white
