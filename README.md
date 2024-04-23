@@ -49,6 +49,17 @@
   - 사용 언어 및 기술 : python, ROS, C++
   <br/>
 
+### 🔫  Luminocity : 유동인구를 활용한 옥외 광고 추천 솔루션 (2024 AWS Smart City Hackathon)  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/Postech_hackathon_Luminocity)
+
+  > AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍처 설계에 기여함.
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2024.03 ~ 2024.03
+  - 사용 언어 및 기술 : Node.js, React, EC2, Simplify, S3 Storage
+  <br/>
+  
   ### 🔫  DonkeyCar : 동키카를 이용한 자율주행 차량 구현  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/donkeycar_projects)
 
   > 텐서플로우와 케라스 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
