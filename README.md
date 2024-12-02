@@ -50,6 +50,17 @@
   - 사용 언어 및 기술 : python, ROS, C++
   <br/>
 
+  ### 🔫  AgriBot : 자동화 작물공정 혁신 솔루션  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012)
+
+  > webOS의 제어아래에 ROS기반의 자동수확로봇인 HaviBot과 Yolo기반의 HueBot을 활용하여 수확부터 분류까지 전체과정을 완전자동화함.
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
+  -->
+  
+  - 개발 기간 : 2024.02 ~
+  - 사용 언어 및 기술 : python, ROS, C++
+  <br/>
+
 ### 🔫  Luminocity : 유동인구를 활용한 옥외 광고 추천 솔루션 (2024 AWS Smart City Hackathon)  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/YUNSUNGWOONG/Postech_hackathon_Luminocity)
 
   > AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍처 설계에 기여함.
