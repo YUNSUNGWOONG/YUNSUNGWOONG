@@ -43,7 +43,7 @@
 
   <tr>
     <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">✍🏻 Education(어케공부했는지?) </a></h3>
+      <h3><a href="/README.md#-plugins">✍🏻 Education</a></h3>
     </th>
   </tr>
   <tr>
@@ -60,7 +60,7 @@
 
   <tr>
     <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">👩🏻‍💻 Project Experience(어떤 프로젝트 했는지) </a></h3>
+      <h3><a href="/README.md#-plugins">👩🏻‍💻 Project Experience </a></h3>
     </th>
   </tr>
 
@@ -410,7 +410,7 @@
 
   <tr>
     <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">🏆 Awards & Honors(어떤거 상탔고, 어떤거 수료했는지)
+      <h3><a href="/README.md#-plugins">🏆 Awards & Honors
       </a></h3>
     </th>
   </tr>
@@ -463,8 +463,9 @@
     ▶ 소프트웨어 엔지니어 - 공군 군수사령부 융합체계과(풀타임)<br>
     ▶ 디지털 마케터 - 톡톡외국어(아카데미)<br>
     <h3>🔬 연구 </h3>
-    ▶ 학생연구원 - 자율군집SW연구센터<br>
-    ▶ 학부연구생 - ISPL 연구실<br>
+    ▶ 학생연구원 - 자율군집SW연구센터(CSOS Lab)<br>
+    ▶ 학부연구생 - 지능신호처리 연구실(ISPL Lab)<br>
+    ▶ 학부연구생 - 임베디드 시스템 플랫폼 연구실(Ace Lab)<br>
   </td>
   </tr>
 
@@ -561,10 +562,10 @@
       ▶ Matlab, Simulink <br>
     </td>
     <td colspan="2">
-      <h3>👨🏻‍💻 Experiment</h3>
-      ▶ Inverter H/W <br>
-      ▶ Double pulse test <br>
-      ▶ ALE & Dynamo load test <br>
+      <h3>👨🏻‍💻 Operating System</h3>
+      ▶ Ubuntu(Linux) <br>
+      ▶ webOS <br>
+      ▶ ccOS <br>
     </td>
   </tr>
 
