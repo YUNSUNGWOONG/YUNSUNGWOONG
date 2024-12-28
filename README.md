@@ -381,7 +381,7 @@
   <tr>
     <td colspan="6" align="left">
         <details close>
-            <summary style="font-size: 20px; font-weight: bold;"><strong>🛦  K-TCG : K-TCG 인터넷 홈페이지 유지보수 및 테스트</strong></summary>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🛦 K-TCG : K-TCG 인터넷 홈페이지 유지보수 및 테스트</strong></summary>
             <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <tr>
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
