@@ -419,8 +419,10 @@
     <h2>🏆 Awards</h2>
     ▶️ SEEK SQUARE 2024, 최우수상<br>
     ▶️ SEEK SQUARE 2024, 인기상<br>
+    ▶️ ABEEK 포트폴리오 경진대회 2024, 우수상<br>
     ▶️ 임베디드SW경진대회 본선 5등<br>
     ▶️ 제3회 국제대학생 EV 자율주행 경진대회 (1/10부문) 본선 9등<br>
+    ▶️ AWS 스마트시티 해커톤 본선 4등<br>
     <h2>🎖️ Honors</h2>
     ▶️ 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무 수료(반도체설계교육센터, 2023.01)<br>
     ▶️ 군 SW·AI 역량강화 인공지능 트랙(기본) 수료(구름에듀, 2022.08~2022.09)<br>
@@ -472,7 +474,7 @@
 
   <tr>
     <th colspan="6" align="center" width="360">
-      <h3><a href="/README.md#-plugins">✅ Paper & Patent
+      <h3><a href="/README.md#-plugins">📑 Paper & Patent
       </a></h3>
     </th>
   </tr>
@@ -487,15 +489,15 @@
 
   <tr>
     <th colspan="6" align="center" width="360">
-      <h3><a href="/README.md#-plugins">✅ Website & Blog
+      <h3><a href="/README.md#-plugins">🌐 Website & Blog
       </a></h3>
     </th>
   </tr>
   <tr>
   <td colspan="6" align="left" width="360">
-     <h3>📜 Website </h3>
+     <h3>🖥️ Website </h3>
     ▶️ Coming Soon!<br>
-    <h3>🌐 Blog </h3>
+    <h3>💻 Blog </h3>
     ▶️ GITHUB BLOG: My CodingLog<br>
     ▶️ Naver: My Diary Blog<br>
     ▶️ Naver: My Learning Blog<br>
