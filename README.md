@@ -308,7 +308,7 @@
                     </td> -->
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
-                        <img src="https://github.com/user-attachments/assets/a2359342-e4f5-480f-9772-001896b546d8" 
+                        <img src="https://github.com/user-attachments/assets/1be445f5-bccb-4715-80d1-f68b2542a20e"  
                              alt="Airforce image" 
                              style="width: 230px; height: auto; border: 1px solid #ccc;!important">
                       </a>
