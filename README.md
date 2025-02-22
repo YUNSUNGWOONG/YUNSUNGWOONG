@@ -300,6 +300,38 @@
                         <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="https://github.com/YUNSUNGWOONG/knu_studycafe" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/user-attachments/assets/1be445f5-bccb-4715-80d1-f68b2542a20e" 
+                             alt="Airforce image" 
+                             style="width: 230px; height: auto; border: 1px solid #ccc;!important">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
+    </td>
+</tr>
+
+  <!-- project() -->
+  <tr>
+    <td colspan="6" align="left">
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🛦 Air Defense Control Command, Maintenance Case Management System : 정비사례 관리체계</strong></summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              '방공관제사령부(現, 미사일방어사령부) 정비사례 관리체계’를 <br> 
+                              개발하여 방공관제사령부 예하 전대, 관제부대에 대한 <br>
+                              “레이다 고장정비 종합관리”의 행정업무를 간소화하는데 기여함
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2022.6 ~ 2022.11</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, jquery, tui-chart</p>
+                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/a2359342-e4f5-480f-9772-001896b546d8" 
                              alt="Airforce image" 
