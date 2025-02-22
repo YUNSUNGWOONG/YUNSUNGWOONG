@@ -74,13 +74,14 @@
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
-                              webOS의 제어 아래에 ROS 기반의 자동수확로봇인 HaviBot과 Yolo 기<br>
-                              반의 HueBot을 활용하여 수확부터 분류까지 전체 과정을 <br>
+                              webOS의 제어 아래에 ROS 기반의 자동수확로봇인 HaviBot과 Yolo 기반의<br>
+                              HueBot을 활용하여 수확부터 분류까지 전체 과정을 <br>
                               완전자동화함.
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2024.02 ~</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : python, ROS, C++</p>
+                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012" target="_blank" style="text-decoration: none;">
@@ -111,6 +112,7 @@
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2024.02 ~</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : python, ROS, C++</p>
+                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/TurtleBro" target="_blank" style="text-decoration: none;">
@@ -205,6 +207,7 @@
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2023.11 ~ 2023.12</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : C</p>
+                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/Manila" target="_blank" style="text-decoration: none;">
