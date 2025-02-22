@@ -141,11 +141,12 @@
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2024.03 ~ 2024.03</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : Node.js, React, EC2, Simplify, S3 Storage</p>
+                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                     </td>
                     <td style="width: 35%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/3d530c58-0197-4496-af7f-59a7b3fc7e56" 
-                             alt="TurtleBot 이미지" width="220px"
+                             alt="TurtleBot 이미지" width="230px"
                              style="width: 60%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
@@ -173,11 +174,12 @@
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : python, turbo framework, RaspberryPi4, Linux,<br> 
                               putty, jenkins, Jira
                         </p>
+                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/YUNSUNGWOONG/DonkeyBro/raw/main/images/common/README/gif1.gif" 
-                             alt="TurtleBot 이미지" width="220px"
+                             alt="DonkeyCar 이미지" width="230px"
                              style="width: 60%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
@@ -207,7 +209,7 @@
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/Manila" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/26305cd2-748a-47fa-bf1e-c5c15a71002c" 
-                             alt="TurtleBot 이미지" width="260px"
+                             alt="S32K144 이미지" width="230px"
                              style="width: 60%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
