@@ -266,15 +266,14 @@
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2023.06 ~ 2023.07</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : Python, tkinter<br> 
-                        <p style="margin: 10px 0;">********************************************************************************</p>
                         <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                         </p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/knu_studycafe" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/1be445f5-bccb-4715-80d1-f68b2542a20e" 
-                             alt="TurtleBot 이미지"
-                             style="width: 230px; height: auto; border: 1px solid #ccc;!important">
+                             alt="TurtleBot 이미지" width="width: 230px"
+                             style="height: auto; border: 1px solid #ccc;!important">
                       </a>
                     </td>
                 </tr>
