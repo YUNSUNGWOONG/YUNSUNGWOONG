@@ -299,9 +299,16 @@
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, jquery, tui-chart</p>
                         <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                     </td>
-                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                    <!-- <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/knu_studycafe" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/1be445f5-bccb-4715-80d1-f68b2542a20e" 
+                             alt="Airforce image" 
+                             style="width: 230px; height: auto; border: 1px solid #ccc;!important">
+                      </a>
+                    </td> -->
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/user-attachments/assets/a2359342-e4f5-480f-9772-001896b546d8" 
                              alt="Airforce image" 
                              style="width: 230px; height: auto; border: 1px solid #ccc;!important">
                       </a>
