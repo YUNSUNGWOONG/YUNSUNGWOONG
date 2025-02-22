@@ -395,6 +395,7 @@
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2021.5 ~ 2021.6</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : Jquery, WireShark</p>
+                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
