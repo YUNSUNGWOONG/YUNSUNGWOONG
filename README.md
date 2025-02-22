@@ -234,13 +234,14 @@
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2023.11 ~ 2023.12</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : C, Python, OpenCV<br> 
+                        <p style="margin: 10px 0;">********************************************************************************</p>
                         </p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/UnderDog" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/8e33e7fb-e694-461b-9933-fe5e16928902" 
                              alt="TurtleBot 이미지" width="230px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                             style="width: 230px; height: auto; border: 1px solid #ccc;!important">
                       </a>
                     </td>
                 </tr>
@@ -265,7 +266,7 @@
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2023.06 ~ 2023.07</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : Python, tkinter<br> 
-                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
+                        <p style="margin: 10px 0;">********************************************************************************</p>
                         </p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
