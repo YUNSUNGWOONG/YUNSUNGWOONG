@@ -86,8 +86,8 @@
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012" target="_blank" style="text-decoration: none;">
                         <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
-                             alt="AgriBot 이미지" width="230px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                             alt="AgriBot 이미지" 
+                             style="width: 230px; height: auto; border: 1px solid #ccc;!important">
                       </a>
                     </td>
                 </tr>
@@ -117,7 +117,7 @@
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/TurtleBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/bbe9699a-8847-4a89-84ee-a15ee093ec4b" 
-                             alt="TurtleBot 이미지" width="230px"
+                             alt="TurtleBot 이미지" width="220px"
                              style="width: 60%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
