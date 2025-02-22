@@ -516,6 +516,13 @@
     ▶️ velog: My Embedded Blog<br>
     ▶️ Blex: My CS Blog<br>
     ▶️ Tistory: My Python Blog<br>
+    <a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/GITHUB BLOG: My CodingLog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> : My CodingLog <br>
+    <a href="https://blog.naver.com/yhon89" target="_blank"><img src="https://img.shields.io/badge/Naver: My Diary Blog-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> : My Diary Blog <br> 
+    <a href="https://blog.naver.com/yhon89e" target="_blank"><img src="https://img.shields.io/badge/Naver(yhon89e)-E95420?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> : My Learning Blog <br> 
+    <a href="https://velog.io/@2170004487z/posts" target="_blank"><img src="https://img.shields.io/badge/Velog_(2170004487z)-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> : My Embedded Blog <br>
+    <a href="https://blex.me/@2170004487z" target="_blank"><img src="https://img.shields.io/badge/Blex_(2170004487z)-c110cc?style=for-the-badge&logo=Nuxt.js&logoColor=white"/></a> : My CS Blog<br>
+    <a href="https://steemit.com/@yunsungwoong" target="_blank"><img src="https://img.shields.io/badge/Steemit_(2170004487z)-33cf98?style=for-the-badge&logo=velog&logoColor=white"/></a> : My Financial Blog<br>
+    <a href="https://jack-channel-python.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-f1eb6e?style=for-the-badge&logo=PYTHON&logoColor=black"/></a> : My Python Blog <br>
   </td>
   </tr>
 
