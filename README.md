@@ -74,8 +74,8 @@
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
-                              webOS의 제어 아래에 ROS 기반의 자동수확로봇인 HaviBot과 Yolo 기<br>
-                              반의 HueBot을 활용하여 수확부터 분류까지 전체 과정을 <br>
+                              webOS의 제어 아래에 ROS 기반의 자동수확로봇인 HaviBot과 Yolo<br>
+                              기반의 HueBot을 활용하여 수확부터 분류까지 전체 과정을 <br>
                               완전자동화함.
                             </p>
                         </blockquote>
@@ -107,7 +107,8 @@
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
-                              ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
+                              ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량<br>
+                              학습을 수행
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2024.02 ~</p>
@@ -137,8 +138,8 @@
                     <td style="width: 65%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
-                              AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와 아키텍<br>
-                              처 설계에 기여함.
+                              AWS 유동인구 데이터를 활용한 옥외광고솔루션으로, 백엔드와<br>
+                              아키텍처 설계에 기여함.
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2024.03 ~ 2024.03</p>
@@ -169,7 +170,8 @@
                     <td style="width: 70%; vertical-align: top; padding-right: 10px;">
                         <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
                             <p>
-                              ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
+                              ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량<br>
+                              학습을 수행
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2023.08 ~</p>
