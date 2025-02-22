@@ -233,44 +233,14 @@
                             </p>
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2023.11 ~ 2023.12</p>
-                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : C, Python, OpenCV<br> 
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : C, Python, OpenCV</p> 
+                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                         </p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="https://github.com/YUNSUNGWOONG/UnderDog" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/8e33e7fb-e694-461b-9933-fe5e16928902" 
                              alt="TurtleBot 이미지" width="230px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
-                      </a>
-                    </td>
-                </tr>
-            </table>
-        </details>
-    </td>
-</tr>
-
-  <!-- project() -->
-  <tr>
-    <td colspan="6" align="left">
-        <details close>
-            <summary style="font-size: 20px; font-weight: bold;"><strong>☕︎ Knu_StudyCafe : 파이썬을 활용한 스터디카페 키오스크</strong></summary>
-            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
-                <tr>
-                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
-                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
-                            <p>
-                              학부과정 `파이썬 프로그래밍` 수업에서 텀프로젝트 일환으로<br>
-                               제작한 스터디카페 키오스크
-                            </p>
-                        </blockquote>
-                        <p style="margin: 10px 0;">- 개발 기간 : 2023.06 ~ 2023.07</p>
-                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Python, tkinter<br> 
-                        </p>
-                    </td>
-                    <td style="width: 30%; text-align: right; vertical-align: top;">
-                      <a href="https://github.com/YUNSUNGWOONG/knu_studycafe" target="_blank" style="text-decoration: none;">
-                        <img src="https://github.com/user-attachments/assets/1be445f5-bccb-4715-80d1-f68b2542a20e" 
-                             alt="TurtleBot 이미지" width="285px"
                              style="width: 60%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
