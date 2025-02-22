@@ -363,6 +363,7 @@
                         </blockquote>
                         <p style="margin: 10px 0;">- 개발 기간 : 2021.6 ~ 2022.11</p>
                         <p style="margin: 10px 0;">- 사용 언어 및 기술 : Java8, Spring(4.3.29), tibero, tui-chart</p>
+                        <p style="margin: 10px 0;">-----------------------------------------------------------------</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
                       <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
