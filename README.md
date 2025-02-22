@@ -499,9 +499,22 @@
   </td>
   </tr>
 
+  <tr>
+    <th colspan="6" align="center">
+      <h3><a href="/README.md#-plugins">🌐 Website & Blog
+      </a></h3>
+    </th>
+  </tr>
+  <tr>
   <td colspan="3" align="left">
     <h3>🖥️ Website </h3>
     ▶️ Coming Soon!<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
   </td>
   <td colspan="3" align="left">
     <h3>💻 Blog </h3>
