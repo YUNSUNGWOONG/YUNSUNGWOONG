@@ -417,17 +417,18 @@
   <tr>
   <td colspan="6" align="left">
     <h2>🏆 Awards</h2>
-    ▶ SEEK SQUARE 2024, 최우수상<br>
-    ▶ SEEK SQUARE 2024, 인기상<br>
-    ▶ 임베디드SW경진대회 본선 5등<br>
-    ▶ 제3회 국제대학생 EV 자율주행 경진대회 (1/10부문) 본선 9등<br>
+    ▶️ SEEK SQUARE 2024, 최우수상<br>
+    ▶️ SEEK SQUARE 2024, 인기상<br>
+    ▶️ 임베디드SW경진대회 본선 5등<br>
+    ▶️ 제3회 국제대학생 EV 자율주행 경진대회 (1/10부문) 본선 9등<br>
     <h2>🎖️ Honors</h2>
-    ▶ 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무 수료(반도체설계교육센터, 2023.01)<br>
-    ▶ 군 SW·AI 역량강화 인공지능 트랙(기본) 수료(구름에듀, 2022.08~2022.09)<br>
-    ▶ R3F를 이용한 인터렉티브 3D 가상환경 웹 개발 실무 수료(한국메타버스산업협회, 2023.06)<br>
-    ▶ V2X 통신에 대한 이해와 서비스 개발 실습 수료(경북대학교 ICT 자동차융합연구센터, 2023.07)<br>
-    ▶ DX창업역랑강화캠프 수료(2024.09)<br>
-    ▶ 창업동아리(골든타임) 활동 수료(2024.12)<br>
+    ▶️ 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무 수료(반도체설계교육센터, 2023.01)<br>
+    ▶️ 군 SW·AI 역량강화 인공지능 트랙(기본) 수료(구름에듀, 2022.08~2022.09)<br>
+    ▶️ R3F를 이용한 인터렉티브 3D 가상환경 웹 개발 실무 수료(한국메타버스산업협회, 2023.06)<br>
+    ▶️ V2X 통신에 대한 이해와 서비스 개발 실습 수료(경북대학교 ICT 자동차융합연구센터, 2023.07)<br>
+    ▶️ DX창업역랑강화캠프 수료(2024.09)<br>
+    ▶️ 창업동아리(골든타임) 활동 수료(2024.12)<br>
+    ▶️ AI 기반 제어 프로그래밍 실무교육(수료)
   </td>
   </tr>
 
@@ -440,35 +441,69 @@
   <tr>
   <td colspan="3" align="left">
     <h3>🌐 English Proficiency</h3>
-    ▶ TOEIC: XXX<br>
-    ▶ TOFEL: XXX<br>
+    ▶️ TOEIC: XXX<br>
+    ▶️ TOFEL: XXX<br>
   </td>
   <td colspan="3" align="left">
     <h3>📜 Certifications</h3>
-    ▶ 정보처리산업기사<br>
-    ▶ 네트워크관리사2급<br>
-    ▶ 행정관리사2,3급<br>
+    ▶️ 정보처리산업기사<br>
+    ▶️ 네트워크관리사2급<br>
+    ▶️ 행정관리사2,3급<br>
   </td>
   </tr>
 
   <tr>
     <th colspan="6" align="center" width="360">
-      <h3><a href="/README.md#-plugins">✅ Activity(활동한거, 학부생,알바, 학교, 군대)
+      <h3><a href="/README.md#-plugins">✅ Activity
       </a></h3>
     </th>
   </tr>
   <tr>
   <td colspan="6" align="left" width="360">
     <h3>💼 직장 </h3>
-    ▶ 소프트웨어 엔지니어 - 공군 군수사령부 융합체계과(풀타임)<br>
-    ▶ 디지털 마케터 - 톡톡외국어(아카데미)<br>
+    ▶️ 소프트웨어 엔지니어 - 공군 군수사령부 융합체계과(풀타임)<br>
+    ▶️ 디지털 마케터 - 톡톡외국어(아카데미)<br>
     <h3>🔬 연구 </h3>
-    ▶ 학생연구원 - 자율군집SW연구센터(CSOS Lab)<br>
-    ▶ 학부연수생 - 지능신호처리 연구실(ISPL Lab)<br>
-    ▶ 학부연수생 - 임베디드 시스템 플랫폼 연구실(Ace Lab)<br>
+    ▶️ 학생연구원 - 자율군집SW연구센터(CSOS Lab)<br>
+    ▶️ 학부연수생 - 지능신호처리 연구실(ISPL Lab)<br>
+    ▶️ 학부연수생 - 임베디드 시스템 플랫폼 연구실(Ace Lab)<br>
   </td>
   </tr>
 
+  <tr>
+    <th colspan="6" align="center" width="360">
+      <h3><a href="/README.md#-plugins">✅ Paper & Patent
+      </a></h3>
+    </th>
+  </tr>
+  <tr>
+  <td colspan="6" align="left" width="360">
+    <h3>📜 Paper </h3>
+    ▶️  Agribot: A Smart Farm Automated Crop Process Solution Utilizing webOS<br>
+    <h3>📚 Patent </h3>
+    ▶️ Coming Soon!<br>
+  </td>
+  </tr>
+
+  <tr>
+    <th colspan="6" align="center" width="360">
+      <h3><a href="/README.md#-plugins">✅ Website & Blog
+      </a></h3>
+    </th>
+  </tr>
+  <tr>
+  <td colspan="6" align="left" width="360">
+     <h3>📜 Website </h3>
+    ▶️ Coming Soon!<br>
+    <h3>🌐 Blog </h3>
+    ▶️ GITHUB BLOG: My CodingLog<br>
+    ▶️ Naver: My Diary Blog<br>
+    ▶️ Naver: My Learning Blog<br>
+    ▶️ velog: My Embedded Blog<br>
+    ▶️ Blex: My CS Blog<br>
+    ▶️ Tistory: My Python Blog<br>
+  </td>
+  </tr>
 
   <tr>
     <th colspan="6" align="center" width="360">
