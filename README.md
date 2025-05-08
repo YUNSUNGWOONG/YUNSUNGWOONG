@@ -494,7 +494,7 @@
   <tr>
   <td colspan="6" align="left" width="360">
     <h3>📜 Paper </h3>
-    ▶️  Agribot: A Smart Farm Automated Crop Process Solution Utilizing webOS<br>
+    ▶️  Agribot: A Smart Farm Automated Crop Process Solution Utilizing webOS <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12132421&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">[Link]</a><br>
     <h3>📚 Patent </h3>
     ▶️ Coming Soon!<br>
   </td>
