@@ -120,7 +120,7 @@
                       <a href="https://github.com/YUNSUNGWOONG/TurtleBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/bbe9699a-8847-4a89-84ee-a15ee093ec4b" 
                              alt="TurtleBot 이미지" width="230px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                             style="width: 100%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
                 </tr>
@@ -151,7 +151,7 @@
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/3d530c58-0197-4496-af7f-59a7b3fc7e56" 
                              alt="TurtleBot 이미지" width="230px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                             style="width: 100%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
                 </tr>
@@ -185,7 +185,7 @@
                       <a href="https://github.com/YUNSUNGWOONG/DonkeyBro" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/YUNSUNGWOONG/DonkeyBro/raw/main/images/common/README/gif1.gif" 
                              alt="DonkeyCar 이미지" width="230px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                             style="width: 100%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
                 </tr>
@@ -216,7 +216,7 @@
                       <a href="https://github.com/YUNSUNGWOONG/Manila" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/26305cd2-748a-47fa-bf1e-c5c15a71002c" 
                              alt="S32K144 이미지" width="230px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                             style="width: 100%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
                 </tr>
@@ -249,7 +249,7 @@
                       <a href="https://github.com/YUNSUNGWOONG/UnderDog" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/8e33e7fb-e694-461b-9933-fe5e16928902" 
                              alt="TurtleBot 이미지" width="230px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                             style="width: 100%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
                 </tr>
@@ -280,7 +280,7 @@
                       <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
                         <img src="https://github.com/user-attachments/assets/1be445f5-bccb-4715-80d1-f68b2542a20e"  
                              alt="Airforce image" width="230px"
-                             style="width: 60%; height: auto; border: 1px solid #ccc;">
+                             style="width: 100%; height: auto; border: 1px solid #ccc;">
                       </a>
                     </td>
                 </tr>
