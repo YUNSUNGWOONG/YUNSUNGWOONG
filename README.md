@@ -48,7 +48,7 @@
   </tr>
   <tr>
   <td colspan="6" align="left">
-    - 경북대학교 전자공학부 (재학중)<br>
+    - 경북대학교 IT대학 전자공학부 (학부졸업)(2021.03~2025.08)<br>
     - 지능형 자동차 내부 네트워크 기술(CAN) 응용 실무(반도체설계교육센터, 2023.01)<br>
     - 군 SW·AI 역량강화 인공지능 트랙(기본)(구름에듀, 2022.08~2022.09)<br>
     - R3F를 이용한 인터렉티브 3D 가상환경 웹 개발 실무(한국메타버스산업협회, 2023.06)<br>
@@ -528,7 +528,7 @@
     <a href="https://blog.naver.com/yhon89" target="_blank"><img src="https://img.shields.io/badge/Naver: My Diary Blog-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a><br> 
     <a href="https://blog.naver.com/yhon89e" target="_blank"><img src="https://img.shields.io/badge/Naver: My Learning Blog-E95420?style=for-the-badge&logo=MongoDB&logoColor=white"/></a><br> 
     <a href="https://velog.io/@2170004487z/posts" target="_blank"><img src="https://img.shields.io/badge/velog: My Embedded Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><br>
-    <a href="https://blex.me/@2170004487z" target="_blank"><img src="https://img.shields.io/badge/Blex: My CS Blog-c110cc?style=for-the-badge&logo=buefy&logoColor=white"/></a><br>
+    <a href="https://blex.me/@smithsolution" target="_blank"><img src="https://img.shields.io/badge/Blex: My CS Blog-c110cc?style=for-the-badge&logo=buefy&logoColor=white"/></a><br>
     <a href="https://steemit.com/@yunsungwoong" target="_blank"><img src="https://img.shields.io/badge/Steemit: My Financial Blog-33cf98?style=for-the-badge&logo=velog&logoColor=white"/></a><br>
     <a href="https://jack-channel-python.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory: My Python Blog-f1eb6e?style=for-the-badge&logo=PYTHON&logoColor=black"/></a><br>
   </td>
