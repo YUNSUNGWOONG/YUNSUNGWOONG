@@ -422,6 +422,38 @@
     </td>
 </tr> 
 
+  <!-- project() -->
+  <tr>
+    <td colspan="6" align="left">
+        <details close>
+            <summary style="font-size: 20px; font-weight: bold;"><strong>🚘︎ Nae-Ri-Da : AI 관제 기반 자율주행 하역 시스템</strong></summary>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="width: 70%; vertical-align: top; padding-right: 10px;">
+                        <blockquote style="font-size: 15px; font-weight: bold; margin: 0; padding-left: 10px; border-left: 4px solid #0078D7;">
+                            <p>
+                              천장에 부착된 카메라만으로 관제 기반의 자율주행 기능을 <br>
+                              구현하여 GPS가 차폐된 PCC선박 환경에서도 안정적으로 차량을 <br>
+                              주차할 수 있도록 구현
+                            </p>
+                        </blockquote>
+                        <p style="margin: 10px 0;">- 개발 기간 : 2024.12 ~ 2025.12</p>
+                        <p style="margin: 10px 0;">- 사용 언어 및 기술 : Humble, PCL, Carla Sim, Autoware, Unity</p>
+                        <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
+                    </td>
+                    <td style="width: 30%; text-align: right; vertical-align: top;">
+                      <a href="#-curriculum-vitae" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/user-attachments/assets/a2359342-e4f5-480f-9772-001896b546d8" 
+                             alt="Airforce image" 
+                             style="width: 230px; height: auto; border: 1px solid #ccc;!important">
+                      </a>
+                    </td>
+                </tr>
+            </table>
+        </details>
+    </td>
+</tr> 
+
   <tr>
     <th colspan="6" align="center">
       <h3><a href="/README.md#-plugins">🏆 Awards & Honors
@@ -477,6 +509,8 @@
   <tr>
   <td colspan="6" align="left" width="360">
     <h3>💼 직장 </h3>
+    ▶️ CEO - 오토노머스피씨씨<br>
+    ▶️ 석사 연구원 - Acelab 연구실(풀타임)<br>
     ▶️ 소프트웨어 엔지니어 - 공군 군수사령부 융합체계과(풀타임)<br>
     ▶️ 디지털 마케터 - 톡톡외국어(아카데미)<br>
     <h3>🔬 연구 </h3>
@@ -497,8 +531,10 @@
   <td colspan="6" align="left" width="360">
     <h3>📜 Paper </h3>
     ▶️  Agribot: A Smart Farm Automated Crop Process Solution Utilizing webOS <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12132421&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">[Link]</a><br>
+    ▶️  Fisheye Image Rectification Tailored for Indoor Autonomous Valet Parking Control Systems <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12132421&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">[Link]</a><br>
     <h3>📚 Patent </h3>
-    ▶️ Coming Soon!<br>
+    ▶️ 디지털트윈 기반 차량 배치 및 정렬 최적화 시스템 및 학습 방법<br>
+    ▶️ 디지털트윈 환경을 이용한 상용 주차장 내 물리 제약 자동 반영 및 차량 배치·자율주행 경로 통합 최적화 방법<br>
   </td>
   </tr>
 
