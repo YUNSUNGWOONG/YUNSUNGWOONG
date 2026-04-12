@@ -532,8 +532,8 @@
   <tr>
   <td colspan="6" align="left" width="360">
     <h3>📜 Paper </h3>
+    ▶️  Fisheye Image Rectification Tailored for Indoor Autonomous Valet Parking Control Systems <a href="https://d2j16w31g89z0j.cloudfront.net/site/2026w/abs/0219-UVOQE.pdf">[Link]</a><br>
     ▶️  Agribot: A Smart Farm Automated Crop Process Solution Utilizing webOS <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12132421&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">[Link]</a><br>
-    ▶️  Fisheye Image Rectification Tailored for Indoor Autonomous Valet Parking Control Systems <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12132421&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">[Link]</a><br>
     <h3>📚 Patent </h3>
     ▶️ 디지털트윈 기반 차량 배치 및 정렬 최적화 시스템 및 학습 방법<br>
     ▶️ 디지털트윈 환경을 이용한 상용 주차장 내 물리 제약 자동 반영 및 차량 배치·자율주행 경로 통합 최적화 방법<br>
