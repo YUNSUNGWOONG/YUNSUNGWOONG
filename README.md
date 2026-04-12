@@ -118,8 +118,13 @@
                         <p style="margin: 10px 0;">--------------------------------------------------------------------------------</p>
                     </td>
                     <td style="width: 30%; text-align: right; vertical-align: top;">
-                      <a href="https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012" target="_blank" style="text-decoration: none;">
+                      <!-- <a href="https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012" target="_blank" style="text-decoration: none;">
                         <img src="https://raw.githubusercontent.com/YUNSUNGWOONG/2024ESWContest_webOS_3012/main/assets/images/README/image-20241026190510507.png" 
+                             alt="AgriBot 이미지" 
+                             style="width: 230px; height: auto; border: 1px solid #ccc;!important">
+                      </a> -->
+                      <a href="https://github.com/YUNSUNGWOONG/2024ESWContest_webOS_3012" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.com/user-attachments/assets/c53e6814-3b54-4652-968c-3679b9898452" 
                              alt="AgriBot 이미지" 
                              style="width: 230px; height: auto; border: 1px solid #ccc;!important">
                       </a>
