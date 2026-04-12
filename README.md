@@ -123,8 +123,6 @@
                              alt="AgriBot 이미지" 
                              style="width: 230px; height: auto; border: 1px solid #ccc;!important">
                       </a>
-                      
-
                     </td>
                 </tr>
             </table>
